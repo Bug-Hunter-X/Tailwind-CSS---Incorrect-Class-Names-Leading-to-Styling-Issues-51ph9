@@ -1,0 +1,3 @@
+# Tailwind CSS - Incorrect Class Names Bug
+
+This repository demonstrates a common issue encountered when using Tailwind CSS: incorrect class names leading to unexpected styling.  The `bug.js` file shows the flawed code, while `bugSolution.js` provides the corrected version.  This simple example highlights the importance of carefully checking for typos and understanding how Tailwind's class naming convention works.  It's a reminder to pay close attention to detail when writing Tailwind CSS classes to avoid unexpected visual bugs.
